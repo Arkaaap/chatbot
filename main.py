@@ -18,7 +18,7 @@ chain = prompt | model
 
 def handle_conversation():
     context = ""  # Corrected initialization
-    print("Welcome to the Sasta ChatGPT! Type 'exit' to quit.")
+    print("\n\tWelcome to the Sasta ChatGPT! Type 'exit' to quit.\n\n")
 
     while True:
         user_input = input("You: ")
