@@ -1,3 +1,7 @@
+#Author arkap and my group code and converse Date :12/2/25
+
+
+
 from langchain_ollama import OllamaLLM
 from langchain_core.prompts import ChatPromptTemplate
 
